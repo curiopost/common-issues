@@ -1,6 +1,6 @@
 # Common Issues
 
-### 1. Unable to open image gallery when creating a post
+### 1. Unable to open image gallery when creating a post or a question or adding an avatar
 
 To fix this follow the steps:
 
