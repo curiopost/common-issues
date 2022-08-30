@@ -21,3 +21,7 @@ Sometimes you might not see the verification email sent to you when you visit, i
 ### 3. My issue is not here
 
 If your issue is not here, then it most likely is a bug, you can report it [here](https://bugs.curiopost.live/)
+
+### 4. Site just blank
+
+If the site is just blank when you visit the page, first try reloading the page, then if it is still blank, go to your browser settings and seee if JavaScript is enabled.
